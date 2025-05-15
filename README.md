@@ -3,7 +3,7 @@
 Projeto de software para gerenciamento de notas para professores, com o objetivo de melhorar a organização, evitar erros futuros e garantir o controle total. 100% on-line.
 
 Requisitos levantados
-REQUISITOS FUNCIONAIS
+# REQUISITOS FUNCIONAIS
 
 Login e Cadastro de Usuários • O sistema deve permitir que o usuário crie uma conta com dados pessoais e endereço. • O sistema deve permitir o login com email e senha. • O sistema deve permitir recuperar senha esquecida.
 
@@ -26,3 +26,21 @@ Linguagem de Programação • O sistema deve ser desenvolvido em Java. Interfac
 Banco de Dados • O sistema deve utilizar o MySQL para armazenar todas as informações de usuários, turmas, cursos, notas e presenças.
 
 Segurança • As senhas devem ser armazenadas de forma segura. • O sistema deve proteger os dados dos usuários contra acessos indevidos.
+
+# REQUISITOS NÃO FUNCIONAIS
+
+Linguagem de Programação
+O sistema deve ser desenvolvido inteiramente em Java.
+
+Interface Gráfica
+A interface do usuário será desenvolvida com JavaFX no Apache NetBeans IDE
+24. Obs.: Coloquei javaFX como exemplo, podemos utilizar outra interface
+gráfica.
+
+Banco de Dados
+O sistema deve utilizar o MySQL para armazenar todas as informações de
+usuários, turmas, cursos, notas e presenças.
+
+Segurança
+Senhas devem ser armazenadas de forma segura.
+O sistema deve proteger os dados dos usuários contra acessos indevidos.
