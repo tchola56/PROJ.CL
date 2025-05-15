@@ -26,31 +26,3 @@ Linguagem de Programação • O sistema deve ser desenvolvido em Java. Interfac
 Banco de Dados • O sistema deve utilizar o MySQL para armazenar todas as informações de usuários, turmas, cursos, notas e presenças.
 
 Segurança • As senhas devem ser armazenadas de forma segura. • O sistema deve proteger os dados dos usuários contra acessos indevidos.
-
-Sobre
-Nenhuma descrição, site ou detalhes fornecidos.
-Recursos
- Leia-me
- Atividade
-Estrelas
- 0 estrelas
-Observadores
- 1 Monitor
-Garfos
- 0 garagens
-Repositório de relatórios
-Lançamentos
-Nenhum lançamento publicado
-Pacotes
-Nenhum pacote publicado
-Rodapé
-© 2025 GitHub, Inc.
-Navegação de rodapé
-Termos
-Privacidade
-Segurança
-Status
-Documentos
-Contato
-Gerenciar cookies
-Não compartilhe minhas informações pessoais
